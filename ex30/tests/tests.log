@@ -1,0 +1,14 @@
+[DEBUG] tests/libex29_tests.c:56: ----- RUNNING: ./tests/libex29_tests
+[DEBUG] tests/libex29_tests.c:49: 
+----- test_dlopen
+[DEBUG] tests/libex29_tests.c:50: 
+----- test_functions
+[31m[1m[ERROR][0m (tests/libex29_tests.c:11: errno: None) Did not find uppercase function in the library build/libex29.so: build/libex29.so: undefined symbol: uppercase
+[31m[1m[ERROR][0m (tests/libex29_tests.c:32: errno: None) uppercase failed.
+[DEBUG] tests/libex29_tests.c:56: ----- RUNNING: ./tests/libex29_tests
+[DEBUG] tests/libex29_tests.c:49: 
+----- test_dlopen
+[DEBUG] tests/libex29_tests.c:50: 
+----- test_functions
+[31m[1m[ERROR][0m (tests/libex29_tests.c:11: errno: None) Did not find uppercase function in the library build/libex29.so: build/libex29.so: undefined symbol: uppercase
+[31m[1m[ERROR][0m (tests/libex29_tests.c:32: errno: None) uppercase failed.
